@@ -1,0 +1,16 @@
+<!Doctype html>
+<html>
+<head>
+<title>
+Hi
+</title>
+Hello style="font-family:'brush Script MT',cursive;"
+</head>
+<body>
+</body>
+</html>
+
+<label> About</label><br>
+<select id="state" name="state">
+<option value="assam"> Punjab </option>
+<option value="punjab"> Punjab </option>
